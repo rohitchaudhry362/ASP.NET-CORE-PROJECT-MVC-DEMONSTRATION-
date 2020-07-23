@@ -1,0 +1,428 @@
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.StaticWebAssets.xml
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.exe
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.deps.json
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.runtimeconfig.json
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.runtimeconfig.dev.json
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.pdb
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.Views.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.Views.pdb
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.csprojAssemblyReference.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorAssemblyInfo.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorAssemblyInfo.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.AssemblyInfoInputs.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.AssemblyInfo.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.TagHelpers.input.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.TagHelpers.output.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorCoreGenerate.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorTargetAssemblyInfo.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorTargetAssemblyInfo.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.Views.pdb
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.csproj.CopyComplete
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\staticwebassets\RCPatients.StaticWebAssets.Manifest.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\staticwebassets\RCPatients.StaticWebAssets.xml
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.pdb
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.genruntimeconfig.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.csproj.CoreCompileInputs.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Create.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Delete.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Details.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Edit.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Index.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Create.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Delete.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Details.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Edit.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Index.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Create.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Delete.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Details.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Edit.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Index.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Create.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Delete.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Details.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Edit.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Index.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Create.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Delete.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Details.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Edit.cshtml.g.cs
+C:\Users\Ishan\Desktop\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.StaticWebAssets.xml
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.exe
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.deps.json
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.runtimeconfig.json
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.runtimeconfig.dev.json
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.pdb
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.Views.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\RCPatients.Views.pdb
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.csprojAssemblyReference.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.AssemblyInfoInputs.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.AssemblyInfo.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorAssemblyInfo.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorAssemblyInfo.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.TagHelpers.input.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.TagHelpers.output.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorCoreGenerate.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCConcentrationUnit\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCCountry\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDiagnosisCategory\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCDispensingUnit\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedicationType\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorTargetAssemblyInfo.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.RazorTargetAssemblyInfo.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.Views.pdb
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.csproj.CopyComplete
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\staticwebassets\RCPatients.StaticWebAssets.Manifest.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\staticwebassets\RCPatients.StaticWebAssets.xml
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.dll
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.pdb
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.genruntimeconfig.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.csproj.CoreCompileInputs.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.MvcApplicationPartsAssemblyInfo.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\RCPatients.MvcApplicationPartsAssemblyInfo.cache
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedication\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedication\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedication\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedication\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCMedication\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatient\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatient\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatient\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatient\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatient\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientDiagnosis\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientDiagnosis\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientDiagnosis\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientDiagnosis\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientDiagnosis\Index.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientTreatment\Create.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientTreatment\Delete.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientTreatment\Details.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientTreatment\Edit.cshtml.g.cs
+F:\Computer Application Development\spring semester 2020\microsoft web technologies\assignments\RCPatients\RCPatients\obj\Debug\netcoreapp3.1\Razor\Views\RCPatientTreatment\Index.cshtml.g.cs
